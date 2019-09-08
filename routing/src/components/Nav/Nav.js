@@ -1,24 +1,24 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import styles from './Nav.module.css';
+import style from './Nav.module.css';
 
-const activeStyle = { color: 'green' };
+const activeStyle = { color: 'yellow' };
 
 const Nav = () => {
     return (
-        <ul>
-            <li>
-                <NavLink exact activeStyle={activeStyle} to="/">
+        <ul className={style.navigation}>
+            <li className={style.item}>
+                <NavLink exact activeStyle={activeStyle} className={style.a} to="/">
                     Home page
         </NavLink>
             </li>
-            <li>
-                <NavLink activeClassName={styles.active} to="/about">
+            <li className={style.item}>
+                <NavLink activeClassName={style.active} className={style.a} to="/about">
                     About page
         </NavLink>
             </li>
-            <li>
-                <NavLink activeClassName={styles.active} to="/pets">
+            <li className={style.item}>
+                <NavLink activeClassName={style.active} className={style.a} to="/pets">
                     Pets
         </NavLink>
             </li>

@@ -1,4 +1,29 @@
-.active {
-  color: green;
+.navigation {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  background-color: #444444;
+  padding: 4% 0 4% 0;
   font-size: 28px;
+  list-style: none;
+
+}
+
+
+.a {
+  color: #fff;
+  text-decoration: none;
+
+}
+
+.active {
+  color: yellow;
+  /* font-size: 28px; */
+}
+
+.item {
+  margin-left: 2%;
+
 }
