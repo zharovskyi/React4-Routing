@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React4-Routing/static/css/main.a6910b09.chunk.css",
-    "main.js": "/React4-Routing/static/js/main.7644855c.chunk.js",
-    "main.js.map": "/React4-Routing/static/js/main.7644855c.chunk.js.map",
+    "main.css": "/React4-Routing/static/css/main.983e984f.chunk.css",
+    "main.js": "/React4-Routing/static/js/main.96cb81fa.chunk.js",
+    "main.js.map": "/React4-Routing/static/js/main.96cb81fa.chunk.js.map",
     "runtime~main.js": "/React4-Routing/static/js/runtime~main.c57283f3.js",
     "runtime~main.js.map": "/React4-Routing/static/js/runtime~main.c57283f3.js.map",
-    "static/js/2.5388803c.chunk.js": "/React4-Routing/static/js/2.5388803c.chunk.js",
-    "static/js/2.5388803c.chunk.js.map": "/React4-Routing/static/js/2.5388803c.chunk.js.map",
+    "static/js/2.c88ce06e.chunk.js": "/React4-Routing/static/js/2.c88ce06e.chunk.js",
+    "static/js/2.c88ce06e.chunk.js.map": "/React4-Routing/static/js/2.c88ce06e.chunk.js.map",
     "index.html": "/React4-Routing/index.html",
-    "precache-manifest.189440f4e879e6520a4e9d65d9a4e00b.js": "/React4-Routing/precache-manifest.189440f4e879e6520a4e9d65d9a4e00b.js",
+    "precache-manifest.bdcd1689a77411523304f6ebb9d85985.js": "/React4-Routing/precache-manifest.bdcd1689a77411523304f6ebb9d85985.js",
     "service-worker.js": "/React4-Routing/service-worker.js",
-    "static/css/main.a6910b09.chunk.css.map": "/React4-Routing/static/css/main.a6910b09.chunk.css.map"
+    "static/css/main.983e984f.chunk.css.map": "/React4-Routing/static/css/main.983e984f.chunk.css.map"
   }
 }
